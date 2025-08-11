@@ -20,4 +20,4 @@
 ---
 board: [ "nice_nano_v2" ]
 include:
-  - board: tcherta
+#  - board: tcherta
