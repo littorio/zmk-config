@@ -12,9 +12,9 @@ manifest:
     - name: zmk
       remote: zmkfirmware
       import: app/west.yml
-    - keyboard-tcherta
-      remote: cherta_base
-      revision: main
+#    - keyboard-tcherta
+#      remote: cherta_base
+#      revision: main
 
   self:
     path: config
