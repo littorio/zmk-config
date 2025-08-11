@@ -19,5 +19,5 @@
 #
 ---
 board: [ "nice_nano_v2" ]
-include:
+#include:
 #  - board: tcherta
